@@ -1,2 +1,2 @@
 # first-folder
-用与学习
+用于学习
